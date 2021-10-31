@@ -1,0 +1,2 @@
+# kmean
+Data Nasabah
